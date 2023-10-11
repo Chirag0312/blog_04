@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img{
+
+    width: 1200px;
+    height: 800px;
+    border: blue;
+}
